@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+    <meta charset='UTF-8'>
+    <title>Introduction to Cybersecurity - Credly</title>
+    <script src="https://cdn.cookielaw.org/scripttemplates/otSDKStub.js" type="text/javascript" charset="UTF-8" data-domain-script="47d1c5ce-460c-434d-8cc7-0318d7d02a9d"></script>
+    <script nonce="Y8n/pHpNqw5J5uFusGWFm8sfsqFw9YaS0QOKSxxxpT0=">
+    //<![CDATA[
+
+        function OptanonWrapper() { }
+
+    //]]>
+    </script>
+</head>
+<body>
+<header class='transitional' id='website-header' style=''>
+    <div class='container'>
+        <div class='branding'>
+            <a class='brand' href='https://www.credly.com/'>
+                <img class='brand-logo' src='https://images.credly.com/images/f9c5f4ce-dc0d-4644-9687-fc125cf22dd8/Credly_Logo_Orange.svg' alt='Credly'>
+            </a>
+        </div>
+    </div>
+</header>
+<main id="root">
+    <div class='cr-badge-banner-layout'>
+        <div class='cr-badge-details__header'>
+            <div class='cr-badge-details__title'>
+                <h1>Introduction to Cybersecurity</h1>
+            </div>
+            <div class='cr-badge-details__meta'>
+                <div class='cr-badge-issuer__name'>
+                    <span>Issued by</span>
+                    <a href='https://www.credly.com/org/cisco'>Cisco</a>
+                </div>
+                <div class='cr-badge-earn__recipient'>
+                    <span>Earned by</span>
+                    <span>Ayesha Khan Afridi</span> <!-- Changed name here -->
+                </div>
+            </div>
+        </div>
+        <div class='cr-badge-details__content'>
+            <div class='cr-badge-details__summary'>
+                <p>This introductory course is designed for individuals interested in entering the field of cybersecurity. Learn about the basics of cybersecurity, including common threats, security best practices, and the importance of ethical behavior in a digital environment.</p>
+            </div>
+        </div>
+        <div class='cr-badge-details__skills'>
+            <h3>Skills</h3>
+            <ul>
+                <li>Cybersecurity Basics</li>
+                <li>Security Best Practices</li>
+                <li>Threat Analysis</li>
+                <li>Ethical Behavior</li>
+            </ul>
+        </div>
+    </div>
+</main>
+</body>
+</html>
